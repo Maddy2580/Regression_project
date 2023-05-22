@@ -1,0 +1,4 @@
+numpy
+pandas
+Flask
+-e .  #this line will create a link between requirements.txt and setup.py
