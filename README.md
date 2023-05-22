@@ -2,7 +2,7 @@
 
 ### Creting a new environment
 ```
-conda create -p env1 python=3.8
+conda create -p env1 python==3.8
 
 conda activate env1/
 ```
